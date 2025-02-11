@@ -31,14 +31,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-🔹 **[Esquina das Rações](#)** - Sistema para gestão de pet shop utilizando **FastAPI** e **PostgreSQL**.  
-🔹 **[Calculadora Web](#)** - Aplicação interativa desenvolvida com **HTML, CSS e JavaScript**.  
-
-
----
-
 ## 📫 Como Me Encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sidwanderson-camargo-3a810a22b/)  
