@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Sidwanderson Camargo Santos! 👋</h1>
+<h1 align="center">Olá, sou o Sidwanderson Camargo Santos! 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Engenharia%20de%20Software-blue?style=for-the-badge" />
@@ -9,9 +9,6 @@
 ---
 
 ## 🚀 Sobre Mim
-
-👨‍💻 Apaixonado por tecnologia desde a infância, comecei minha jornada na programação criando pequenos projetos web e me especializando no desenvolvimento de software.
-
 📚 Atualmente curso **Engenharia de Software** e sou formado em **Análise e Desenvolvimento de Sistemas**, além de ter formação técnica em **Manutenção e Suporte em Informática**.
 
 ⚡ Tenho experiência no desenvolvimento de sistemas web, utilizando tecnologias modernas.
