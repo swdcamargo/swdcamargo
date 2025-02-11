@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Sobre Mim
-📚 Atualmente curso **Engenharia de Software** e sou formado em **Análise e Desenvolvimento de Sistemas**, além de ter formação técnica em **Manutenção e Suporte em Informática**.
+📚 Atualmente curso **Engenharia de Software**  além de ter formação técnica em **Manutenção e Suporte em Informática**.
 
 ⚡ Tenho experiência no desenvolvimento de sistemas web, utilizando tecnologias modernas.
 
